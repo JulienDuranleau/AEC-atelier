@@ -1,6 +1,12 @@
 body{
-    background-color: coral;
+    background-color:rgb(252, 220, 141);
+ text-align: center;
 }
 
 #marc{
     color: slateblue;
+}
+
+#Julie{
+    color: rgb(223, 81, 105);
+}
